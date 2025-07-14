@@ -1,7 +1,5 @@
-# =============================================================================
-# Este programa demuestra el uso de constructores y destructores en Python.
-# El sistema simula una sesión de usuario interactiva con un menú de opciones.
-# =============================================================================
+# Este programa demuestra el uso de constructores y destructores en Python y
+# simula una sesión de usuario interactiva con un menú de opciones.
 
 import datetime
 import time
@@ -39,9 +37,8 @@ class SesionUsuario:
         print(f"   -> La sesión ha terminado de forma segura.")
 
 
-# =============================================================================
 # En este bloque inicia el programa.
-# =============================================================================
+
 
 print("--- Inicio del sistema de autenticación ---")
 
